@@ -1,3 +1,4 @@
+<img src="https://i.pinimg.com/1200x/d7/a0/e0/d7a0e07686e15945172b31787f08ce77.jpg" alt="Banner" width="100%" />
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Janoos</h1>
 
 <p align="center">
@@ -6,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://drive.google.com/file/d/1w32IUGRm8XF5hhQpNQHgkaU6cQ-e-ShY/view?usp=sharing" alt="Banner" width="100%" />
+
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -16,14 +17,8 @@
   <img src="https://streak-stats.demolab.com/?user=Sivakanthan-Janoos&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Sivakanthan-Janoos's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Sivakanthan-Janoos&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Janoos's GitHub Trophies" />
-</p>
-<p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Sivakanthan-Janoos&theme=nightowl&radius=10" alt="Sivakanthan-Janoos's Activity Graph" />
 </p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
 
 
 ## 🛠️ Languages & Tools
@@ -78,5 +73,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
-
-
