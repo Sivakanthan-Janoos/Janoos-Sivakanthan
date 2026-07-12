@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://pin.it/1KEMuG7Tm" alt="Banner" width="100%" />
+<img src="https://drive.google.com/file/d/1w32IUGRm8XF5hhQpNQHgkaU6cQ-e-ShY/view?usp=sharing" alt="Banner" width="100%" />
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
